@@ -29,7 +29,7 @@ git clone https://github.com/surjithctly/nextly-template.git
 cd nextly-template
 ```
 
-### 3\. Install dependencies
+### 3\. Install dependencies ( Preferred NPM version: v16.1.1 )
 
 ```
 yarn install
